@@ -2,7 +2,7 @@
 nxlog config to transfor Skyhigh SSE Incident, Anomalies and Audit Log to Rapid7 conform json events
 
 
-Configure best-practice log flow for Rapid7 SIEM integration with Skyhigh Security
+# Configure best-practice log flow for Rapid7 SIEM integration with Skyhigh Security
 
 Source: <https://github.com/zengelan/skyhigh-nxlog-rapid7> 
 
